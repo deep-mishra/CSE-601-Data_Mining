@@ -6,4 +6,5 @@ Data Mining projects on bioinformatic topic (implmented in Python)
 algorithm and rule generation algorithm
 
 PCA Code - ([pca](pca-and-appriori-algorithm/code))
-Ap
+
+Appriori Alogrithm Code - ([appriori](pca-and-appriori-algorithm/appriori))
